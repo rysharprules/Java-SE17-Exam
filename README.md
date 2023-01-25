@@ -29,6 +29,12 @@ Notes to support the Oracle 1Z0-829 Java 17 SE Developer exam
 | Accessing databases using JDBC                                            | \- Create connections, create and execute basic, prepared and callable statements, process query results and control transactions using JDBC API                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Implementing Localization                                                 | \- Implement localization using locales, resource bundles, parse and format messages, dates, times, and numbers including currency and percentage values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
+Candidates are also expected to:
+
+- Understand the basics of Java Logging API.
+- Use Annotations such as Override, Functionalnterface, Deprecated, SuppressWarnings, and SafeVarargs.
+- Use generics, including wildcards.
+
 ### Changes
 
 The following are some of the key changes Oracle has made to the new exam:
