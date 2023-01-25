@@ -8,10 +8,11 @@ _This documentation is an aggregation of multiple sources and is intended as a s
 
 # Exam Overview
 
-## Details
+## Detailsw
 
-| Exam Name           | Oracle Java SE 17 Developer     |
+|||
 | ------------------- | ------------------------------- |
+| Exam Name           | Oracle Java SE 17 Developer     |
 | Exam Code           | 1Z0-829                         |
 | Duration            | 90 minutes                      |
 | Number of Questions | 50                              |
