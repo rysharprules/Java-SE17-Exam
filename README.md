@@ -1,5 +1,10 @@
 # Java-SE17-Exam
-Notes to support the Oracle 1Z0-829 Java 17 SE Developer exam
+
+Examples and notes to aid revision for the Java SE 17 Developer exam (1Z0-829).
+
+<a href="https://education.oracle.com/java-se-17-developer/pexam_1Z0-829" ><img src="https://raw.githubusercontent.com/rysharprules/Java-SE8-Upgrade-Exam/master/ocp_logo.gif" /></a>
+
+_This documentation is an aggregation of multiple sources and is intended as a study guide for my personal use and such, wording and examples may jump between perspectives or may appear incomplete. I make no personal gain from this other than learning._
 
 # Exam Overview
 
