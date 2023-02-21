@@ -1,3 +1,4 @@
+package records;
 public final class Product {
 
     private final long id;
