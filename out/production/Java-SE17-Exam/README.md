@@ -24,8 +24,6 @@
 
 - [Java Text Blocks](https://www.baeldung.com/java-text-blocks)
 
-<img src="../../../../img/icon_code.png"  width="5%"> <a href="text_block/TextBlocks.java">TextBlocks.java</a> - examples including concat, escape chars and replaceable parameters.<br />
-
 **What is a text block?**
 
 A text block is a multi-line string literal and the feature offers a clean way to format the string in a predictable
