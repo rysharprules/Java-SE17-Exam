@@ -11,12 +11,12 @@ public record ProductRecord(long id, String name, String description) {
         // public long id() { return this.id; }
         // public String name() { return this.name; }
         // public String description() { return this.description; }
-        // These can be overriden:
+        // These can be overridden:
         @Override
         public String name() {
                 return name != null && !name.isBlank() ? name : "anonymous";
         }
-        // Although there are rules when overrding:
+        // Although there are rules when overriding:
         // - The return type of an overridden accessor method must be the same type of the component
         // - Accessor methods cannot have a 'throws' clause (so they cannot throw checked exceptions).
         //      They can throw unchecked exceptions
