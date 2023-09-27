@@ -18,10 +18,8 @@ blah blah blah
 
 ## 03.02 - Create classes and records, and define and use instance and static fields and methods, constructors, and instance and static initializers
 
-<img src="../../../../img/icon_code.png"  width="5%"> <a href="records/Product.java">Immutable Class</a>, Pre-JDK14 - Creating immutable classes<br />
-<img src="../../../../img/icon_code.png"  width="5%"> <a href="records/ProductRecord.java">Record Class</a>, the new way.
-
-<img src="../../../../img/icon_code.png"  width="5%"> <a href="records/UsingRecord.java">Example using a record class</a>.
+<img src="../../../../img/icon_code.png"  width="5%"> <a href="records/Product.java">Immutable Class</a>, i.e., the old way<br />
+<img src="../../../../img/icon_code.png"  width="5%"> <a href="records/ProductRecord.java">Record Class</a>, i.e., the new way. Note the comments regarding what the compiler generates.
 
 **Class hierarchy of records**
 
@@ -30,7 +28,8 @@ blah blah blah
 - The common superclass for records is `java.lang.Record`
 
 **Practical use for records**
- Domain Objects
+
+- Domain Objects
 - Value Objects (Examples: String, Integer, Long, BigInteger, BigDecimal, java.time).
     - A value object does not have an identity
 - Data Transfer Objects
