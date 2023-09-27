@@ -17,13 +17,13 @@ After passing this exam, I have added a <a href="https://rysharp.blogspot.com/20
 
 Topic column relate to the table in the [Topics](#topics) section.
 
-| Feature            | Topic |
-|--------------------|-------|
-| Text Blocks        | 01    |
-| Switch Expressions | 02    |
-| Pattern Matching   | 03    |
-| Records            | 03    |
-| Sealed Classes     | 03    |
+| Feature                                                                                               | Topic |
+|-------------------------------------------------------------------------------------------------------|-------|
+| [Text Blocks](https://github.com/rysharprules/Java-SE17-Exam/tree/main/src/text_block)                | 01    |
+| [Switch Expressions](https://github.com/rysharprules/Java-SE17-Exam/tree/main/src/switch_expressions) | 02    |
+| [Pattern Matching](https://github.com/rysharprules/Java-SE17-Exam/tree/main/src/pattern_matching)     | 03    |
+| [Records](https://github.com/rysharprules/Java-SE17-Exam/tree/main/src/records)                       | 03    |
+| [Sealed Classes](https://github.com/rysharprules/Java-SE17-Exam/tree/main/src/sealed_classes)         | 03    |
 
 # Exam Overview
 
